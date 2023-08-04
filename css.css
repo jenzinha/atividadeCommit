@@ -1,5 +1,5 @@
 body{
-    background-color: blueviolet;
+    background-color: rgb(17, 3, 31);
 }
 h1{
     text-align: center;
@@ -8,4 +8,8 @@ h1{
 p{
     text-align: center;
     color: chocolate;
+}
+h3{
+    text-align: center;
+    color: brown;
 }
